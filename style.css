@@ -11,3 +11,18 @@ header{
 h2{
     font-size: 40px;
 }
+.name{
+    width: 250px;
+    height: 40px;
+}
+.email{
+    width: 250px;
+    height: 40px;
+}
+span{
+    font-size: 25px;
+    background-color: rgb(244, 248, 9);
+}
+.address{
+    font-size: 20px;
+}

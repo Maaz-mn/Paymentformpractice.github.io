@@ -1,9 +1,13 @@
 header{
     font-size: 80px;
-    background-color: #ffaa00;
+    background-color: #0091ff;
     -webkit-box-reflect: below
     1px linear-gradient(transparent, #0005);
-    box-shadow: 0 0 5px #ffaa00,0 0 15px #ffaa00,0 0 25px #ffaa00, 0 0 100px #ffaa00;
+    box-shadow: 0 0 5px #0091ff,0 0 15px #0091ff,0 0 25px #0091ff, 0 0 100px #0091ff;
     margin-top: 30px;
     margin-bottom: 100px;
+    width: 50%;
+}
+h2{
+    font-size: 40px;
 }

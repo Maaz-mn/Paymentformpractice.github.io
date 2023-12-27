@@ -26,3 +26,23 @@ span{
 .address{
     font-size: 20px;
 }
+.card_type{
+    width: 200px;
+    height: 40px;
+}
+.card_number{
+    width: 200px;
+    height: 20px;
+}
+.exp_date{
+    width: 120px;
+    height: 40px;
+}
+.cvv{
+    width: 150px;
+    height: 30px;
+}
+.button{
+   font-size: 20px;
+   margin-top: 30px;
+}
